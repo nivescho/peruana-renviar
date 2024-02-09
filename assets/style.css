@@ -1,0 +1,27 @@
+body{
+    background-color:antiquewhite ;
+}
+
+
+
+.display-6{
+    font-size: 25px;
+}
+
+#carouselExample{
+    max-width: 400px; /* Establece el ancho máximo del carrusel */
+    margin-left: 450px
+    
+}
+
+#carouselExample img {
+    width: 100%;
+   
+}
+
+
+
+.comidas{
+    background-color: #fff;
+    width: 80vw;
+}
